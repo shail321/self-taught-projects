@@ -9,6 +9,8 @@ public class HelloWorld
 		System.out.println("Hello World Changed in local-repo-2");
 		System.out.println("Hello World Changed in local-repo-2 part2");
 		System.out.println("Hello World Changed in local-repo-1");
+		System.out.println("Hello World Changed in local-repo-2 part3");
+		
 		
 	}
 		
